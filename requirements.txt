@@ -2,7 +2,7 @@
 awscli==1.7.26
 bcdoc==0.14.0
 botocore==0.107.0
-certifi==2015.4.28
+certifi==2022.12.7
 colorama==0.3.3
 docutils==0.12
 ghp-import==0.4.1
